@@ -44,7 +44,7 @@ output: Gồm 5 thư mục con
 
 - **Thư mục answer_question** : tương ứng chứa phần trả lời cho câu hỏi *2.2.f*. Cũng bao gồm 21 tệp định dạng txt được đánh số từ 1 đến 21 tương ứng với 21 câu hỏi trong tệp query.txt
 
-modles: Gồm 3 tệp mã
+models: Gồm 3 tệp mã
 
 - **action_parsing_dependcy_grammar.py** : Chứa các hàm dùng cho việc trả lời câu hỏi *2.2.a*
 
@@ -74,4 +74,4 @@ sẽ được gọi ở lớp này.
 
 - **README.md** : Chính là tệp này, dùng để chú thích các thành phần trong phần bài làm
 
-### ***Ghi chú: Bài nộp này em sẽ xóa hết tất cả tệp ở thư mục output, chỉ để thư mục rỗng. Sau khi thực thi đoạn mã ở tệp main.py. Các thư mục con và câu trả lời tương ứng với từng câu hỏi sẽ xuất hiện.***
+### ***Ghi chú: Bài nộp sẽ không có tệp nào ở thư mục output, chỉ còn thư mục rỗng. Sau khi thực thi đoạn mã ở tệp main.py. Các thư mục con và câu trả lời tương ứng với từng câu hỏi sẽ xuất hiện.***
