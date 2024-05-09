@@ -74,4 +74,4 @@ sẽ được gọi ở lớp này.
 
 - **README.md** : Chính là tệp này, dùng để chú thích các thành phần trong phần bài làm
 
-### ***Ghi chú: Bài nộp sẽ không có tệp nào ở thư mục output, chỉ còn thư mục rỗng. Sau khi thực thi đoạn mã ở tệp main.py. Các thư mục con và câu trả lời tương ứng với từng câu hỏi sẽ xuất hiện.***
+### ***Ghi chú: Bài nộp bao gồm các tệp kết quả ở thư mục output đã chạy trước đó.***
